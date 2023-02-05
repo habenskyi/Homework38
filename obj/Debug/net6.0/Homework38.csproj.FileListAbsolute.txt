@@ -1,0 +1,15 @@
+C:\Cisharp\HOMEWORK\Homework38\bin\Debug\net6.0\Homework38.exe
+C:\Cisharp\HOMEWORK\Homework38\bin\Debug\net6.0\Homework38.deps.json
+C:\Cisharp\HOMEWORK\Homework38\bin\Debug\net6.0\Homework38.runtimeconfig.json
+C:\Cisharp\HOMEWORK\Homework38\bin\Debug\net6.0\Homework38.dll
+C:\Cisharp\HOMEWORK\Homework38\bin\Debug\net6.0\Homework38.pdb
+C:\Cisharp\HOMEWORK\Homework38\obj\Debug\net6.0\Homework38.csproj.AssemblyReference.cache
+C:\Cisharp\HOMEWORK\Homework38\obj\Debug\net6.0\Homework38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cisharp\HOMEWORK\Homework38\obj\Debug\net6.0\Homework38.AssemblyInfoInputs.cache
+C:\Cisharp\HOMEWORK\Homework38\obj\Debug\net6.0\Homework38.AssemblyInfo.cs
+C:\Cisharp\HOMEWORK\Homework38\obj\Debug\net6.0\Homework38.csproj.CoreCompileInputs.cache
+C:\Cisharp\HOMEWORK\Homework38\obj\Debug\net6.0\Homework38.dll
+C:\Cisharp\HOMEWORK\Homework38\obj\Debug\net6.0\refint\Homework38.dll
+C:\Cisharp\HOMEWORK\Homework38\obj\Debug\net6.0\Homework38.pdb
+C:\Cisharp\HOMEWORK\Homework38\obj\Debug\net6.0\Homework38.genruntimeconfig.cache
+C:\Cisharp\HOMEWORK\Homework38\obj\Debug\net6.0\ref\Homework38.dll
